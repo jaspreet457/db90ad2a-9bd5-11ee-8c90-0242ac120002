@@ -2,7 +2,7 @@
 ACER coding challenge(Jaspreet Kaur)
 Instructions to run the project on localhost
 1. First, install xampp.
-2. Copy the project and put it into the htdoc folder
+2. Copy the project and put it into the htdocs folder
 3. start xampp server
 4. copy the path and paste it into the browser:
    http://localhost/myproject/studentform.php
