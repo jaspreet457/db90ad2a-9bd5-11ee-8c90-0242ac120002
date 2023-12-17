@@ -6,8 +6,8 @@ Instructions to run the project on localhost
 3. start xampp server
 4. copy the path and paste it into the browser:
    http://localhost/myproject/studentform.php
+5. Place students.json file along with studentform.php file to run the program locally.   
 
 If you are using the Yii framework then use these instructions:-
 1. Copy the view, controller, and model folder and replace it with your folder.
 2. Copy the JSON files and paste them into the view folder
-
